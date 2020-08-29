@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857242285083",
+    "firebase_url": "https://friends-e0c30.firebaseio.com",
+    "project_id": "friends-e0c30",
+    "storage_bucket": "friends-e0c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857242285083:android:b39baa829bc45d859f74be",
+        "android_client_info": {
+          "package_name": "com.hvtechnologies.friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857242285083-o0musl668fe9pipde3fo5oflfrh7cl8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvtechnologies.friends",
+            "certificate_hash": "d4e66e90a5f75f4e0ea3714e992567c6b52ede40"
+          }
+        },
+        {
+          "client_id": "857242285083-e1hslun6gr3fdpt9u56ffinhism5il8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMv6TTfgSCsl3_7A6C3aAe8YpHujO3UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857242285083-e1hslun6gr3fdpt9u56ffinhism5il8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
